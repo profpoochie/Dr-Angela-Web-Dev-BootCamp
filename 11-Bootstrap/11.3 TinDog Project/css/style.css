@@ -33,3 +33,7 @@
   font-size: 3rem;
   color: #fff;
 }
+
+#testimonial .container .row img {
+  height: 30px;
+}
